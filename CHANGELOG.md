@@ -1,5 +1,13 @@
 # Changelog
 
+## [3.4.1](https://github.com/devopsarr/terraform-provider-sonarr/compare/v3.4.0...v3.4.1) (2025-01-24)
+
+
+### Bug Fixes
+
+* **deps:** update hotio/sonarr docker tag to release-4.0.12.2823 ([bc736db](https://github.com/devopsarr/terraform-provider-sonarr/commit/bc736dbd2e2c45db023f5741ddd3149f5e8ccf29))
+* **deps:** update module github.com/devopsarr/sonarr-go to v1.1.0 ([d2ad11d](https://github.com/devopsarr/terraform-provider-sonarr/commit/d2ad11d204c303cbf3816883a2fed2f57c73de09))
+
 ## [3.4.0](https://github.com/devopsarr/terraform-provider-sonarr/compare/v3.3.0...v3.4.0) (2024-12-22)
 
 
